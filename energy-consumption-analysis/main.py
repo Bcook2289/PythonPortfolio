@@ -76,7 +76,7 @@ plt.plot(gas_capacity, gas_trendline, color='blue', label='Gas Trend Line')
 
 plt.xlabel('Capacity (MW)')
 plt.ylabel('Energy Generation (GWh)')
-plt.title('Capacity vs. Generation by Fuel Type and Year')
+plt.title('Capacity vs. Generation by Fuel Type')
 plt.legend()
 plt.show()
 
